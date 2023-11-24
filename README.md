@@ -17,3 +17,6 @@ const David = {
 -📫 Cómo contactarme: [davidsanabriaotero@gmail.com]. <br>
 -😄 Pronombres: Él/Éllos (o el que prefieras). <br>
 -⚡ Dato curioso: Soy apasionado por la tecnología y la resolución de problemas.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidsanabriaotero&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsanabriaotero&langs_count=8)](https://github.com/Davidsanabriaotero/github-readme-stats)
